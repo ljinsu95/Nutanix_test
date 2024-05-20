@@ -1,0 +1,5 @@
+nutanix_username=""
+nutanix_password=""
+nutanix_endpoint=""
+nutanix_storage_uuid=""
+nutanix_nic_subnet_uuid=""
